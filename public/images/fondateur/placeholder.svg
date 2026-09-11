@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#EEF4FC"/>
+  <circle cx="680" cy="80" r="140" fill="#193C80" opacity="0.15"/>
+  <circle cx="90" cy="520" r="160" fill="#193C80" opacity="0.12"/>
+  <rect x="60" y="60" width="680" height="480" rx="24" fill="none" stroke="#193C80" stroke-width="2" opacity="0.35"/>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="34" fill="#193C80" text-anchor="middle" font-weight="700">Mr Elisée SOHOUNGBLE</text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="16" fill="#6b7280" text-anchor="middle">Image de démonstration — à remplacer</text>
+</svg>
