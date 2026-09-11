@@ -1,0 +1,21 @@
+{
+  "name": "JS TECH — Jehovah Shammah Technologie",
+  "short_name": "JS TECH",
+  "description": "Centre de formation professionnelle en TIC à Bohicon, Bénin.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0E1B2C",
+  "icons": [
+    {
+      "src": "/images/logo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
